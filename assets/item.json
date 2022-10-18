@@ -1,0 +1,22 @@
+
+ [
+       {
+          "ID": "1",
+          "UrunAdi": "Nike",
+          "Resim": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1311f546973847.5c84285dee11e.jpg",
+          "Fiyat": "50"
+       },
+       {
+        "ID": "1",
+        "UrunAdi": "Adidas",
+        "Resim": "https://i.pinimg.com/originals/d4/fb/b6/d4fbb6e82a5825797cecb0d448cf8b9d.jpg",
+        "Fiyat": "30"
+       },
+       {
+        "ID": "1",
+        "UrunAdi": "Puma",
+        "Resim": "https://m.media-amazon.com/images/S/aplus-media/vc/60f6a258-e112-4104-898b-45d2b6848772.__CR184,0,1552,960_PT0_SX970_V1___.jpg",
+        "Fiyat": "150"
+       }
+    ]
+ 
